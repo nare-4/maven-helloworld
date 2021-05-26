@@ -13,6 +13,7 @@
               <h3> Welcome to Kubernetes </h3>
 		<img src=img.jpg alt="image of nature"> 
 	        <img src=img1.jpg alt="image of nature1">
+		<p>Added docker images</p>
 
         Hello World!
     </body>
