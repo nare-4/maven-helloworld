@@ -12,6 +12,7 @@
              <h2>This is an Devops Environment</h2>
               <h3> Welcome to Kubernetes </h3>
 		<img src=img.jpg alt="image of nature"> 
+	        <img src=img1.jpg alt="image of nature1">
 
         Hello World!
     </body>
