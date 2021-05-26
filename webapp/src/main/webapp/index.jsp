@@ -11,6 +11,7 @@
              <h1> Hello, This is a test deployement !!! </h1>
              <h2>This is an Devops Environment</h2>
               <h3> Welcome to Kubernetes </h3>
+	        <img src=img2.jpg alt="work smart"> 
 		<img src=img.jpg alt="image of nature"> 
 	        <img src=img1.jpg alt="image of nature1">
 		<p>Added docker images</p>
